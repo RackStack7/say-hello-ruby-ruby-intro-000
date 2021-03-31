@@ -1,3 +1,3 @@
 def say_hello(name = "Grabiela")
-  prints "Hello, #{name} !"
+  prints "Hello, #{name}!"
 end
